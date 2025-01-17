@@ -11,3 +11,5 @@ Part 3 is finished
 All parts finished
 
 resubmitting homework
+
+The source of this code is myself with soe help from ChatGPT
